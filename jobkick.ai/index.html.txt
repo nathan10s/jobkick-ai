@@ -196,7 +196,7 @@
             – Later, add privacy-friendly ads when you get traffic
             <br />
            <a class="tip-btn"
-   href="https://ko-fi.com/YOURUSERNAME"
+   href="https://ko-fi.com/Nathan10s"
    target="_blank"
    rel="noopener">
   Tip the creator on Ko-fi
@@ -325,4 +325,5 @@ ${skillsList.map(s => '• ' + s).join('\n')}
 
 </body>
 </html>
+
 
