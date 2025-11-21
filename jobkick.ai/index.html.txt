@@ -195,7 +195,13 @@
             – Add “Recommended resources” with affiliate links<br />
             – Later, add privacy-friendly ads when you get traffic
             <br />
-            <button class="tip-btn">Tip the creator (placeholder)</button>
+           <a class="tip-btn"
+   href="https://ko-fi.com/YOURUSERNAME"
+   target="_blank"
+   rel="noopener">
+  Tip the creator on Ko-fi
+</a>
+
           </div>
         </div>
 
@@ -319,3 +325,4 @@ ${skillsList.map(s => '• ' + s).join('\n')}
 
 </body>
 </html>
+
