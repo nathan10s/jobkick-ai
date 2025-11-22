@@ -190,15 +190,19 @@
           <button class="btn btn-primary" id="scrollToForm">Try the demo</button>
           <p class="meta">Phase 1: prototype · When traffic grows, this site can earn from tips, sponsors or ads.</p>
 
-          <div class="money-box">
-            <strong>💸 How this site can pay you (from day one):</strong><br />
-            – Add a tip button (e.g. Buy Me a Coffee / Ko-fi)<br />
-            – Add “Recommended resources” with affiliate links<br />
-            – Later, add privacy-friendly ads when you get traffic
-            <br />
-            <button class="tip-btn">Tip the creator (placeholder)</button>
-          </div>
-        </div>
+       <div class="money-box">
+  <strong>💸 How this site can pay you (from day one):</strong><br />
+  – Add “Recommended resources” with affiliate links<br />
+  – Later, add privacy-friendly ads when you get traffic
+  <br />
+  <a class="tip-btn"
+     href="https://ko-fi.com/Nathan10s"
+     target="_blank"
+     rel="noopener">
+    Tip the creator on Ko-fi
+  </a>
+</div>
+
 
         <div class="card" id="formCard">
           <h2 style="font-size:1.05rem; margin-bottom:0.5rem;">Quick demo</h2>
