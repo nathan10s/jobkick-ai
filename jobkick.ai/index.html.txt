@@ -1,5 +1,4 @@
-<h1>TEST HEADING – IF YOU SEE THIS, IT’S THE NEW FILE</h1>
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -335,6 +334,8 @@ ${skillsList.map(s => '• ' + s).join('\n')}
   </script>
 </body>
 </html>
+
+
 
 
 
