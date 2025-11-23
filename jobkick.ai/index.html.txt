@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+JobFinder
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -339,6 +339,7 @@ ${skillsList.map(s => '• ' + s).join('\n')}
   </script>
 </body>
 </html>
+
 
 
 
