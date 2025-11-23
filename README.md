@@ -2,7 +2,7 @@ JobFinder
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>JobKick AI – CV & Cover Letter Helper</title>
+  <title> – CV & Cover Letter Helper</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; }
