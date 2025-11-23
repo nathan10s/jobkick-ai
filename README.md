@@ -182,11 +182,12 @@ JobFinder
             <span>🧑‍💻</span>
             <span>Built for first jobs & remote applications</span>
           </div>
-          <h1>AI-style CV & cover letter helper for entry-level UK jobs.</h1>
-          <p>
-            Describe your skills and availability and get cleaner CV text you can use
-            for data entry, chat support, admin, and junior tech roles.
-          </p>
+        <h1>Create stronger CVs and cover letters for remote & entry-level jobs.</h1>
+<p>
+  JobFinder helps you turn your skills and availability into clear CV summaries and simple cover letters
+  you can use when applying for data entry, chat support, admin, and junior tech roles.
+</p>
+
           <button class="btn btn-primary" id="scrollToForm">Try the demo</button>
           <p class="meta">
   Free CV & cover letter helper for entry-level and remote roles.
