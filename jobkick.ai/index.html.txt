@@ -1,4 +1,4 @@
-
+<1Doctype Html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -468,3 +468,4 @@ ${skillsList.map(s => '• ' + s).join('\n')}
           data-utcoffset="0"></script>
 </body>
 </html>
+
