@@ -12,11 +12,12 @@
       /* More standout background */
      background: linear-gradient(
   to bottom,
-  #0ea5e9 0%,   /* Bright blue-cyan top */
-  #14b8a6 35%,  /* Teal mid-top */
-  #0d9488 70%,  /* Medium–bright teal */
-  #0f766e 100%  /* Slightly darker teal bottom (NOT black) */
+  #a7f3d0 0%,   /* Mint-pastel */
+  #6ee7b7 40%,  /* Light teal */
+  #5eead4 75%,  /* Aqua pastel */
+  #2dd4bf 100%  /* Soft teal bottom */
 );
+
 
       color: #e5e7eb;
       line-height: 1.6;
