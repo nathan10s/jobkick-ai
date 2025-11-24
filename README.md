@@ -10,7 +10,14 @@
     body {
       font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
       /* More standout background */
-      background: radial-gradient(circle at top, #0ea5e9 0, #0f172a 40%, #020617 100%);
+     background: linear-gradient(
+  to bottom,
+  #0ea5e9 0%,   /* Bright blue-cyan top */
+  #14b8a6 35%,  /* Teal mid-top */
+  #0d9488 70%,  /* Medium–bright teal */
+  #0f766e 100%  /* Slightly darker teal bottom (NOT black) */
+);
+
       color: #e5e7eb;
       line-height: 1.6;
       font-size: 18px; /* Bigger base text */
